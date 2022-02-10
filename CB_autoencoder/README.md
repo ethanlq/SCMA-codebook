@@ -2,7 +2,7 @@ This folder contains the codebooks in the paper ''A Novel Multi-Task Learning Em
 
 Sim_MED_M4  : the code for check the minmum Eculidean distance, which is one design performance indicator for SCMA
 
-Proposed_E2ESCMA : the codebook learned by our proposed codebook
+Proposed_E2ESCMA : the codebook learned by our proposed E2ESCMA
 
 REF_AESCMA  : the reprodced codebook of  [R1]
 
