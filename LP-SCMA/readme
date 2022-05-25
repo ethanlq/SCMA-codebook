@@ -1,3 +1,6 @@
 All the codebooks is in the formate {K,M,J}, where K is the number of resources, M is the modulation order, J is the number of users.
 
 All the codebook energy of each user is normalized to M, i.e., Tr{CB*CB}/J = M
+
+F_4,6  denote the 4*6 SCMA setting,
+F5_10 denote the 5*10 SCMA setting.
