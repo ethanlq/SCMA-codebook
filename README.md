@@ -1,9 +1,13 @@
 # SCMA-codebook
-this projected contains all designed codebooks by the author
-as well as the codebooks collected in the existing works
+This projected contains all designed codebooks by the author, as well as the codebooks collected in the existing works
 
-CB_autoencoder comtains our learned codebook in the paper ''A Novel Multi-Task Learning Empowered Codebook Design for Downlink SCMA Networks''
+1. CB_autoencoder contains our learned codebook in the paper ''A Novel Multi-Task Learning Empowered Codebook Design for Downlink SCMA Networks''
 
-Low-projected codebook contains our current works of SCMA codebook design with low-complexity of decoding
+2. Low-projected codebook contains our current work  of SCMA codebook design with low-complexity of decoding, i.e., "A Design of Low-Projection SCMA Codebooks for
+Downlink Satellite Internet of Things".
 
-CODEBOOK-COLLECTIONS  is the codebook set of existing works
+3. CODEBOOK-COLLECTIONS  is the codebook set of existing works.
+
+4. NC-SCMA: The designed codebook for " An novel non-coherent SCMA xxxx"
+
+5. SSD-SCMA:
