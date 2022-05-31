@@ -8,6 +8,6 @@ Downlink Satellite Internet of Things".
 
 3. CODEBOOK-COLLECTIONS  is the codebook set of existing works.
 
-4. NC-SCMA: The designed codebook for " An novel non-coherent SCMA xxxx"
+4. NC-SCMA: The designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO"
 
 5. SSD-SCMA:
