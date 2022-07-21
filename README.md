@@ -10,4 +10,4 @@ Downlink Satellite Internet of Things".
 
 4. NC-SCMA: The designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO"
 
-5. SSD-SCMA:
+5. xxx-SCMA:
