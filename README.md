@@ -6,6 +6,9 @@ This projected contains all designed codebooks by the author, as well as the cod
 2. LP-SCMA contains our current work  of SCMA codebook design with low-complexity of decoding, i.e., "A Design of Low-Projection SCMA Codebooks for
 Downlink Satellite Internet of Things".
 
+3. Good Multidimensioanl constellation contains our newly design MD constellations in the paper ``Designing Enhanced Multi-dimensional
+Constellations for Code-Domain NOMA‘’
+
 3. CODEBOOK-COLLECTIONS  is the codebook set of existing works.
 
 4. NC-SCMA: The designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO"
