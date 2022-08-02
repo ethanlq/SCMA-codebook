@@ -11,6 +11,6 @@ Constellations for Code-Domain NOMA‘’ (accepted by WCL)
 
 4. "CODEBOOK-COLLECTIONS"  is the codebook set of existing works. Will be updated in an organized way after finish the topic 6.
 
-5. ''NC-SCMA'': the designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO" (submitted to WCL)
+5. ''NC-SCMA'': the designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO" (accepted to WCL)
 
 6. xxx-SCMA:
