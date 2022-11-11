@@ -13,4 +13,7 @@ Constellations for Code-Domain NOMA‘’ (published in WCL)
 
 5. ''NC-SCMA'': the designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO" (published in WCL)
 
-6. ''XX-SCMA''
+6. ''SSD-SCMA'' contains our current work of SCMA codebook design and relevant results in  "Enhancing Signal Space Diversity for SCMA
+Systems Over Rayleigh Fading Channelss".
+
+7. ''XX-SCMA'' Novel SCMA design with..
