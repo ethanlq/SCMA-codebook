@@ -17,7 +17,7 @@ Constellations for Code-Domain NOMA'' (published in WCL)
 6. ''NC-SCMA'': the designed codebook for the paper " A Novel Non-Coherent SCMA with Massive MIMO" (published in WCL)
 
 
-7. SCMA-Platform:   To be upload soon.
+7. SCMA-Platform:   To be uploaded soon.
 
 
  
