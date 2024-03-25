@@ -21,3 +21,4 @@ Constellations for Code-Domain NOMA'' (published in WCL)
 
 
  
+If you are interested in SCMA, please feel free to contact to via q.u.luo@surrey.ac.uk
