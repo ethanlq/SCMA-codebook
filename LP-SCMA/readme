@@ -2,6 +2,6 @@ All the codebooks is in the formate of CB_{K,M,J}, where K is the number of reso
 
 The codebook energy for each user is normalized to M, i.e., Tr{CB*CB}/J = M,
 
-F4_6  denote the 4*6 SCMA setting,
+F4_6  denotes the 4*6 SCMA setting,
 
-F5_10 denote the 5*10 SCMA setting.
+F5_10 denotes the 5*10 SCMA setting.
