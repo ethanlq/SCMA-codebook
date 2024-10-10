@@ -18,9 +18,9 @@ Constellations for Code-Domain NOMA'' (published in WCL)
 
 7. VM-SCMA: to be uploaded soon.
 
-8. SCMA-NTN：codebooks of the paper "Advanced Codebook Design for SCMA-aided NTNs With Randomly Distributed Users".
+8. SCMA-NTN：codebooks of the paper "Advanced Codebook Design for SCMA-aided NTNs With Randomly Distributed Users", under review in WCL.
 
-9. MIMO-SCMA-CB：codebooks for the paper "Novel Sparse Codebook Design for MIMO-SCMA", under review in TVT.
+9. MIMO-SCMA-CB：codebooks  the paper "Novel Sparse Codebook Design for MIMO-SCMA", under review in TVT.
    
 10. SCMA-Platform:   to be uploaded soon.
 
